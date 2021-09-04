@@ -1,1 +1,1 @@
-# divi-detached-sigs
+# blockchainenergy-detached-sigs
